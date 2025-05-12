@@ -2,7 +2,6 @@
 
 A comprehensive digital school registry system to manage students, teachers, classes, and grades.
 
-![School Management System Banner](/uploads/default.png)
 
 ## 📋 Project Overview
 
