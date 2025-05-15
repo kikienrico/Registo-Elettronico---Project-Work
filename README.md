@@ -67,7 +67,7 @@ The project was developed from March 3, 2025, to April 11, 2025, following a str
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/school-management-system.git
+   git clone https://github.com/kikienrico/SchoolManagement-ProjectWork.git
    ```
 
 2. Set up your web server (Apache/Nginx) to point to the project directory
