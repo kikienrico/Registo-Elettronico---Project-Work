@@ -129,7 +129,31 @@ Consegna e collaudo della prima versione completa del gestionale:
 | Fase                           | Inizio      | Fine        | Responsabili              |
 |-------------------------------|-------------|-------------|----------------------------|
 | Inizio Progetto               | 03/03/2025  | 03/03/2025  | Tutti                      |
-| Analisi Requisiti           
-<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+| Analisi Requisiti             | 04/03/2025  | 07/03/2025  | Tutti                      |
+| Studio specifiche             | 04/03/2025  | 05/03/2025  | Sisti                      |
+| Definizione ruoli e privilegi| 06/03/2025  | 07/03/2025  | Sisti                      |
+| Milestone 1 - UI Bozzetti     | 08/03/2025  | 09/03/2025  | Tutti                      |
+| Progettazione UI              | 09/03/2025  | 13/03/2025  | Tutti                      |
+| Milestone 2 - Login Docenti   | 14/03/2025  | 17/03/2025  | Tutti                      |
+| Sviluppo Backend              | 18/03/2025  | 27/03/2025  | Sisti, Puppo, Enrico       |
+| Sviluppo Frontend             | 28/03/2025  | 03/04/2025  | Enrico, Sisti              |
+| Progettazione Database        | 04/04/2025  | 05/04/2025  | Puppo, Enrico, Sisti       |
+| Test e Debug                  | 07/04/2025  | 09/04/2025  | Enrico, Puppo              |
+| Milestone Finale              | 10/04/2025  | 11/04/2025  | Tutti                      |
 
-<h4>A PHP Error was encounter
+---
+
+## Allegati
+-  [Gantt](https://www.canva.com/design/DAGnOS1JAuk/zpuYIicTpy5MBzgPF3c5Lg/edit)
+- [Bozzetti UI](https://www.canva.com/design/DAGgqqg0AWA/NV8wCs5jJUJIQHGaFym1QA/edit?utm_content=DAGgqqg0AWA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Schema E-R](https://www.canva.com/design/DAGnOalb4ds/soVqHlr9hU_SLHwlTylGZQ/edit?utm_content=DAGnOalb4ds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Documentazione Codice](./Documentazione.pdf)
+
+
+---
+
+## Note Finali
+Il progetto ha rispettato le scadenze stabilite nel Gantt. Il lavoro di gruppo si è rivelato efficace e ben organizzato, grazie alla suddivisione chiara delle responsabilità e all’uso degli strumenti di pianificazione.
+
+
+---
