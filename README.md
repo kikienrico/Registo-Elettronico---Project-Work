@@ -1,6 +1,6 @@
 # 🏫 School Management System
 
-A comprehensive digital school registry system to manage students, teachers, classes, and grades.
+A digital school registry system to manage students, teachers, classes, and grades.
 
 
 ## 📋 Project Overview
@@ -17,7 +17,7 @@ The School Management System is a web-based application designed to digitize sch
 
 ## 🛠️ Technology Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS
 - **Backend**: PHP
 - **Database**: MySQL
 
@@ -25,27 +25,28 @@ The School Management System is a web-based application designed to digitize sch
 
 ```
 school-management-system/
-├── admin_dashboard.php       # Administrator control panel
-├── authenticate.php          # User authentication logic
-├── classi.php                # Class management
-├── config.php                # Configuration settings
-├── create_user.php           # User creation interface
-├── index.php                 # Main entry point
-├── logout.php                # Logout functionality
-├── materie.php               # Subjects management
-├── modifica_orario.php       # Schedule editing
-├── orario.php                # General schedule view
-├── orario_studente.php       # Student-specific schedule
-├── student_dashboard.php     # Student interface
-├── teacher_dashboard.php     # Teacher interface
-├── /Documentazione/          # Project documentation
-│   └── Documentazione.pdf    # Detailed project docs
-└── /uploads/                 # Image assets
-    ├── default.png           # Default display image
-    ├── back.png              # Background image
-    ├── back_white.png        # Alternative background
-    ├── students.png          # Student-related imagery
-    └── teacher.png           # Teacher-related imagery
+├── admin_dashboard.php               # Administrator control panel
+├── authenticate.php                  # User authentication logic
+├── classi.php                        # Class management
+├── config.php                        # Configuration settings
+├── create_user.php                   # User creation interface
+├── index.php                         # Main entry point
+├── logout.php                        # Logout functionality
+├── materie.php                       # Subjects management
+├── modifica_orario.php               # Schedule editing
+├── orario.php                        # General schedule view
+├── orario_studente.php               # Student-specific schedule
+├── student_dashboard.php             # Student interface
+├── teacher_dashboard.php             # Teacher interface
+├── /Documentazione/                  # Project documentation
+│   └── Documentazione.pdf            # Detailed code docs
+│   └── Documentazione progetto.pdf   # Detailed project docs
+└── /uploads/                         # Image assets
+    ├── default.png                   # Default display image
+    ├── back.png                      # Background image
+    ├── back_white.png                # Alternative background
+    ├── students.png                  # Student-related imagery
+    └── teacher.png                   # Teacher-related imagery
 ```
 
 ## 📅 Development Timeline
