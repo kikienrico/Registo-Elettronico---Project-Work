@@ -96,7 +96,8 @@ The system supports four distinct user roles:
 
 ## 🔗 Additional Resources
 
-- [Documentazione](/Documentazione/Documentazione.pdf)
+- [Code Documentation](/Documentazione/Documentazione.pdf)
+- [Italian Documentation](/Documentazione/Documentazione%20progetto.md)
 - [UI Mockups](https://www.canva.com/design/DAGgqqg0AWA/NV8wCs5jJUJIQHGaFym1QA/edit)
 - [Gantt Chart](https://www.canva.com/design/DAGnOS1JAuk/zpuYIicTpy5MBzgPF3c5Lg/edit)
 - [ER Schema](https://www.canva.com/design/DAGnOalb4ds/soVqHlr9hU_SLHwlTylGZQ/edit)
